@@ -14,7 +14,7 @@
     <message>
         <location filename="../TerminalDisplay.cpp" line="3178"/>
         <source>&lt;qt&gt;Output has been &lt;a href=&quot;http://en.wikipedia.org/wiki/Flow_control&quot;&gt;suspended&lt;/a&gt; by pressing Ctrl+S.  Press &lt;b&gt;Ctrl+Q&lt;/b&gt; to resume.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;تمいったん中止 &lt;a href=&quot;http://en.wikipedia.org/wiki/Flow_control&quot;&gt;Ctrl+S&lt;/a&gt;.  Ctrl+Q を押すことで、再開することが可能です。&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;تم &lt; &quot;a href=&quot;http://en.wikipedia.org/wiki/Flow_control&quot; &gt;تعليق&lt;/a&gt; الإخراج بالضغط على Ctrl+S. اضغط على &lt;b&gt;Ctrl+Q&lt;/b&gt; للاستئناف.&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -22,7 +22,7 @@
     <message>
         <location filename="../Vt102Emulation.cpp" line="1105"/>
         <source>No keyboard translator available.  The information needed to convert key presses into characters to send to the terminal is missing.</source>
-        <translation>مترجم لوحة المفاتيح غير متوفر. المعلومات اللازمة لتحويل الضغط على المفاتيح إلى معلمات要去翻译的部分没有提供，这里假设翻译保持不变。</translation>
+        <translation>لا يوجد مترجم لوحة مفاتيح متاح. المعلومات اللازمة لتحويل ضغطات المفاتيح إلى أحرف للإرسال إلى الطرفية مفقودة.</translation>
     </message>
 </context>
 <context>
@@ -31,12 +31,12 @@
         <location filename="../ColorScheme.cpp" line="278"/>
         <location filename="../ColorScheme.cpp" line="293"/>
         <source>Un-named Color Scheme</source>
-        <translation>_BGR的名称_配色方案</translation>
+        <translation>نظام ألوان غير مسمّى</translation>
     </message>
     <message>
         <location filename="../ColorScheme.cpp" line="464"/>
         <source>Accessible Color Scheme</source>
-        <translation>Accessible Color Scheme</translation>
+        <translation>نظام  ألوان قابل للوصول</translation>
     </message>
     <message>
         <location filename="../Filter.cpp" line="538"/>
@@ -64,12 +64,12 @@
     <message>
         <location filename="../qtermwidget.cpp" line="451"/>
         <source>Color Scheme Error</source>
-        <translation>ح_attempt_ر赶赴配色方案错误</translation>
+        <translation>خطأ في نظام الألوان</translation>
     </message>
     <message>
         <location filename="../qtermwidget.cpp" line="452"/>
         <source>Cannot load color scheme: %1</source>
-        <translation>يمكن&apos;t load_不加载配色方案: %1</translation>
+        <translation>تعذّر تحميل نظام الألوان: ‏%1</translation>
     </message>
 </context>
 <context>
@@ -77,22 +77,22 @@
     <message>
         <location filename="../SearchBar.cpp" line="40"/>
         <source>Match case</source>
-        <translation>تطابق الحالتين</translation>
+        <translation>مطابقة الحالة</translation>
     </message>
     <message>
         <location filename="../SearchBar.cpp" line="46"/>
         <source>Regular expression</source>
-        <translation>تعبير정규 표현</translation>
+        <translation>التعبير النمطي</translation>
     </message>
     <message>
         <location filename="../SearchBar.cpp" line="50"/>
         <source>Highlight all matches</source>
-        <translation>تظهر جميع التوافق</translation>
+        <translation>تمييز كلّ المطابقات</translation>
     </message>
     <message>
         <location filename="../SearchBar.ui" line="14"/>
         <source>SearchBar</source>
-        <translation>المربع المخصص للبحث</translation>
+        <translation>شريط البحث</translation>
     </message>
     <message>
         <location filename="../SearchBar.ui" line="20"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../SearchBar.ui" line="32"/>
         <source>Find:</source>
-        <translation>أبحث عن:</translation>
+        <translation>أبحث:</translation>
     </message>
     <message>
         <location filename="../SearchBar.ui" line="42"/>
@@ -112,7 +112,7 @@
     <message>
         <location filename="../SearchBar.ui" line="54"/>
         <source>&gt;</source>
-        <translation>N</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="../SearchBar.ui" line="66"/>
