@@ -1,5 +1,11 @@
 deepin-terminal (6.5.9) unstable; urgency=medium
 
+  * chore: update translation
+
+ -- xiepengfei <xiepengfei@uniontech.com>  Tue, 01 Jul 2025 19:40:43 +0800
+
+deepin-terminal (6.5.9) unstable; urgency=medium
+
   * chore(translations): remove deepin-terminal_en_AU.ts file
 
  -- dengzhongyuan <dengzhongyuan@uniontech.com>  Fri, 27 Jun 2025 17:06:42 +0800
